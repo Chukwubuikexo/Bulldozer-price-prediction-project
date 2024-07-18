@@ -1,4 +1,4 @@
-Predicting the Sale Price of Bulldozers using Machine Learning
+Predicting the Sale Price of Bulldozers using machine learning
 This machine learning project aims to predict the sale price of bulldozers.
 
 Problem defition How well can the model predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for?. This model aims to predict a number, this kind of problem is known as a regression problem.(RandomForestRegressor)
